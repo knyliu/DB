@@ -8,6 +8,11 @@ Department and Grade：TAHRD 2nd Grade
 
 ## Note
 ## Assignment
+### HW0
+#### Environment Setup
+Beginners CRUD Tutorial - ReactS, MySQL, NodeJS
+[Youtube Video](https://youtu.be/CdIlyaEeyC8)
+
 ## Project
 
 ```
