@@ -4,7 +4,7 @@ Lecturer：蔡芸琤老師
 
 Name：Yen-Ku, Liu
 
-系級：TAHRD 2nd Grade
+Department and Grade：TAHRD 2nd Grade
 
 ## Note
 ## Assignment
