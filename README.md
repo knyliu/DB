@@ -7,6 +7,23 @@ Name：Yen-Ku, Liu
 Department and Grade：TAHRD 2nd Grade
 
 ## Note
+### Week 2
+#### Create Table
+```mySQL=
+CREATE TABLE table_name (
+    column1 datatype,
+    column2 datatype,
+    column3 datatype,
+   ....
+);
+```
+#### Insert Into
+```
+INSERT INTO table_name (column1, column2, column3, ...)
+VALUES (value1, value2, value3, ...);
+```
+
+How to change er moudle into mySQL?
 ## Assignment
 ### HW0
 #### Environment Setup
