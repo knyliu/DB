@@ -25,12 +25,9 @@ VALUES (value1, value2, value3, ...);
 
 How to change er moudle into mySQL?
 ## Assignment
-### HW0
-#### Environment Setup
+### HW0 - Environment Setup
 
-[YouTube Video](https://youtu.be/CdIlyaEeyC8)
-
-Beginners CRUD Tutorial - ReactS, MySQL, NodeJS
+[YouTube Video](https://youtu.be/CdIlyaEeyC8)  Beginners CRUD Tutorial - ReactS, MySQL, NodeJS
 
 
 
