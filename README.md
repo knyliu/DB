@@ -27,15 +27,23 @@ How to change er moudle into mySQL?
 
 ### Week 3
 ```
-是的，GET、POST、PUT和DELETE等HTTP請求在後端通常由Node.js伺服器處理。當您使用Axios或其他HTTP客戶端在前端（例如React應用程序）發送這些請求時，伺服器端的Node.js應用程序會接收這些請求，然後根據請求的類型和路由進行相應的處理。
+在網頁開發中，我們通常使用以下概念和工具：
 
-具體來說：
-- GET請求通常用於檢索資源，Node.js伺服器會回傳所需的資料。
-- POST請求通常用於創建新資源，Node.js伺服器會處理請求並將新資源添加到資料庫或其他存儲位置。
-- PUT請求通常用於更新現有資源，Node.js伺服器會根據請求更新相應的資源。
-- DELETE請求通常用於刪除資源，Node.js伺服器會執行刪除操作。
+1. **GET/POST/PUT/DELETE**：這些是HTTP請求方法，用於與伺服器進行通信。它們分別代表：
+   - GET：用於獲取資源。
+   - POST：用於創建新資源。
+   - PUT：用於更新現有資源。
+   - DELETE：用於刪除資源。
 
-Node.js提供了一個簡單的方式來處理這些請求，您可以使用它來建立伺服器端應用程序，處理前端應用程序發送的請求，並執行相應的操作。這樣實現了前後端之間的數據交互和應用程序邏輯。
+2. **Query**：在網頁開發中，查詢通常指的是使用URL參數來傳遞資訊給伺服器，通常用於GET請求中，以檢索特定資源或過濾資料。
+
+3. **Axios**：Axios是一個流行的JavaScript函式庫，用於發送HTTP請求。它可用於在瀏覽器或Node.js環境中執行GET、POST、PUT、DELETE等HTTP操作，與伺服器進行通信。
+
+4. **Node.js**：Node.js是一個開源的JavaScript執行環境，可用於伺服器端應用程序。它允許開發者使用JavaScript編寫伺服器端代碼，並處理HTTP請求，例如處理GET、POST、PUT和DELETE請求，並與資料庫進行交互。
+
+5. **React**：React是一個流行的JavaScript庫，用於構建用戶界面。它通常用於前端開發，允許開發者構建動態和交互性的網頁應用程序。React應用程序可以使用Axios向後端的Node.js伺服器發送HTTP請求，以獲取或修改資料，實現前後端的數據交互。
+
+簡而言之，GET/POST/PUT/DELETE是HTTP請求方法，用於與伺服器進行不同類型的操作。Query是用於在URL中傳遞參數的方法。Axios是一個用於發送HTTP請求的JavaScript函式庫，通常在React應用程序中使用，而Node.js則用於構建伺服器端應用程序，處理這些請求。這些技術一起使開發人員能夠建立全堆網頁應用程序，實現前後端的數據交互。
 ```
 ## Assignment
 ### HW0 - Environment Setup
