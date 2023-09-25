@@ -33,6 +33,8 @@ SELECT Orders.OrderID, Employees.LastName, Employees.FirstName FROM Orders
 LEFT JOIN Employees ON Orders.EmployeeID = Employees.EmployeeID
 ORDER BY Orders.OrderID;
 ```
+<img width="738" alt="image" src="https://github.com/knyliu/DB/assets/131148428/81ffafe8-6403-486e-927c-64027278c7b0">
+
 這是一個SQL查詢語句，用於從名為"Orders"和"Employees"的兩個數據表中檢索信息，並根據"Orders"表中的"OrderID"列對結果進行排序。這個查詢使用了"RIGHT JOIN"來結合這兩個表，基於"EmployeeID"列的匹配條件。
 
 讓我解釋一下每個部分的作用：
