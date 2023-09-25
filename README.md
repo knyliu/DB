@@ -26,6 +26,28 @@ VALUES (value1, value2, value3, ...);
 How to change er moudle into mySQL?
 
 ### Week 3
+#### Join
+
+```SQL=
+SELECT Orders.OrderID, Employees.LastName, Employees.FirstName FROM Orders
+LEFT JOIN Employees ON Orders.EmployeeID = Employees.EmployeeID
+ORDER BY Orders.OrderID;
+```
+這是一個SQL查詢語句，用於從名為"Orders"和"Employees"的兩個數據表中檢索信息，並根據"Orders"表中的"OrderID"列對結果進行排序。這個查詢使用了"RIGHT JOIN"來結合這兩個表，基於"EmployeeID"列的匹配條件。
+
+讓我解釋一下每個部分的作用：
+
+1. `SELECT Orders.OrderID, Employees.LastName, Employees.FirstName`: 這部分指定了要從結果中返回的列。具體來說，我們想要返回"Orders"表中的"OrderID"列以及"Employees"表中的"LastName"和"FirstName"列。
+
+2. `FROM Orders`: 這部分指定了要從哪個數據表中檢索數據，這裡是"Orders"表。
+
+3. `RIGHT JOIN Employees`: 這部分指定了要執行的連接類型，這裡是右外部連接（RIGHT JOIN）。右外部連接返回右表（Employees）中的所有記錄，以及與左表（Orders）中的記錄匹配的記錄。如果左表中沒有匹配的記錄，則會在結果中顯示NULL值。
+
+4. `ON Orders.EmployeeID = Employees.EmployeeID`: 這部分指定了連接兩個表的條件。它告訴數據庫使用"EmployeeID"列來匹配兩個表中的記錄。
+
+5. `ORDER BY Orders.OrderID`: 這部分指定了結果的排序方式。我們要按"OrderID"列的值對結果進行升序排序。
+
+總之，這個查詢的目的是返回一個結果集，其中包含了訂單（Orders）的相關信息以及相應的員工（Employees）的姓和名。如果某個訂單的EmployeeID在員工表中找不到對應的記錄，那麼相應的姓和名將為NULL。最終的結果集將按訂單ID升序排列。
 
 #### 在網頁開發中，我們通常使用以下概念和工具：
 
