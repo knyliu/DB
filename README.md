@@ -87,6 +87,8 @@ GET/POST/PUT/DELETE之後，是Node.js幫我處理的
 
 ![ClassRoom_manage_and_community_system drawio](https://github.com/knyliu/DB/assets/131148428/6fb0c8cd-6360-4075-a3b0-9b700b89b81c)
 
+<img width="697" alt="截圖 2023-09-25 下午12 18 03" src="https://github.com/knyliu/DB/assets/131148428/7ca74de1-1b47-438b-8533-6c0ec9793d45">
+
 [YouTube Video](https://youtu.be/CdIlyaEeyC8)  Beginners CRUD Tutorial - ReactS, MySQL, NodeJS
 
 
