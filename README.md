@@ -45,6 +45,16 @@ How to change er moudle into mySQL?
 
 簡而言之，GET/POST/PUT/DELETE是HTTP請求方法，用於與伺服器進行不同類型的操作。Query是用於在URL中傳遞參數的方法。Axios是一個用於發送HTTP請求的JavaScript函式庫，通常在React應用程序中使用，而Node.js則用於構建伺服器端應用程序，處理這些請求。這些技術一起使開發人員能夠建立全堆網頁應用程序，實現前後端的數據交互。
 ```
+
+#### 結論（流程）
+
+React 前端
+
+axios 幫助我發送HTTP請求（GET/POST/PUT/DELETE）
+//Query通常用於GET請求中，以檢索特定資源或過濾資料
+
+GET/POST/PUT/DELETE之後，是Node.js幫我處理的
+
 ## Assignment
 ### HW0 - Environment Setup
 
