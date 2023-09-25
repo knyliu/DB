@@ -83,6 +83,12 @@ GET/POST/PUT/DELETE之後，是Node.js幫我處理的
 
 [YouTube Video](https://youtu.be/CdIlyaEeyC8)  Beginners CRUD Tutorial - ReactS, MySQL, NodeJS
 
+### HW1 - ERD and Databse Create
+
+![ClassRoom_manage_and_community_system drawio](https://github.com/knyliu/DB/assets/131148428/6fb0c8cd-6360-4075-a3b0-9b700b89b81c)
+
+[YouTube Video](https://youtu.be/CdIlyaEeyC8)  Beginners CRUD Tutorial - ReactS, MySQL, NodeJS
+
 
 
 ## Project
