@@ -110,6 +110,18 @@ GET/POST/PUT/DELETE之後，是Node.js幫我處理的
 [YouTube Video](https://youtu.be/D074LEaJJbE)  ER Model and Database Creation
 
 
+### HW2 - CRUD in Web App
+
+
+[YouTube Video](https://youtu.be/hk-z6g7t5f8)  CRUD in Web App - Front-end and Back-end Code Explanation and Demonstration
+
+
+* CRUD in Web App - Create, Read, Update, Delete
+* How Data Transfer from Front-end to Database
+* Code Explanation - Front-end and Back-end
+* MySQL Primary Key Note
+* Connection with Front-end and Back-end
+* React Axios Query Node.js
 
 ## Project
 
