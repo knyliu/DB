@@ -97,6 +97,21 @@ GET/POST/PUT/DELETE之後，是Node.js幫我處理的
 
 總之，資料從前端網頁傳遞到伺服器，然後在伺服器上進行處理，最終可能被存儲在資料庫中，這是一個多步驟的過程，涉及HTTP請求和回應以及資料庫操作。
 
+### Week 5
+```SQL=
+db.students.insertMany([
+  { id: 1, name: 'Ryan', gender: 'M' },
+  { id: 2, name: 'Joanna', gender: 'F' }
+]);
+db.students.find({ gender: 'F' });
+```
+
+db.students.insertMany([
+  { id: 1, name: 'Ryan', gender: 'M' },
+  { id: 2, name: 'Joanna', gender: 'F' }
+]);
+db.```table_name```.find({ gender: 'F' });
+```
 
 ## Assignment
 ### HW0 - Environment Setup
