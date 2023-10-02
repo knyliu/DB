@@ -106,6 +106,8 @@ db.students.insertMany([
 db.students.find({ gender: 'F' });
 ```
 
+
+```
 db.students.insertMany([
   { id: 1, name: 'Ryan', gender: 'M' },
   { id: 2, name: 'Joanna', gender: 'F' }
