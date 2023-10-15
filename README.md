@@ -144,7 +144,6 @@ db.```table_name```.find({ gender: 'F' });
 
 [YouTube Video](https://youtu.be/RqRhHmxrx7w)  CRUD in Web App with MongoDB - Code Explanation, Comparison, and Demonstration
 
-Database System Homework3
 * MERN of CRUD in Web App - Create, Read, Update, Delete
 * Code Explanation in Detail- Front-end, Back-end, and Model
 * MySQL and MongoDB Code Comparison
