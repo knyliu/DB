@@ -6,6 +6,12 @@ Name：Yen-Ku, Liu
 
 Department and Grade：TAHRD 2nd Grade
 
+## Index
+
++ [**Note**](https://github.com/knyliu/DB#Note)
++ [**Assignment**](https://github.com/knyliu/DB#Assignment)
++ [**Final Project**](https://github.com/knyliu/DB#Final-Project)
+
 ## Note
 ### Week 2
 #### Create Table
@@ -149,6 +155,10 @@ db.```table_name```.find({ gender: 'F' });
 * MySQL and MongoDB Code Comparison
 * Connection with Front-end and Back-end
 * MongoDB Express ReactJS Node.js
+
+
+## Final Project
+
 
 ```
 Markdown：https://markdown.tw/
