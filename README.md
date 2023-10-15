@@ -142,9 +142,14 @@ db.```table_name```.find({ gender: 'F' });
 
 ### HW3 - CRUD in Web App with MongoDB / MERN
 
-
 [YouTube Video](https://youtu.be/RqRhHmxrx7w)  CRUD in Web App with MongoDB - Code Explanation, Comparison, and Demonstration
 
+Database System Homework3
+* MERN of CRUD in Web App - Create, Read, Update, Delete
+* Code Explanation in Detail- Front-end, Back-end, and Model
+* MySQL and MongoDB Code Comparison
+* Connection with Front-end and Back-end
+* MongoDB Express ReactJS Node.js
 
 ```
 Markdown：https://markdown.tw/
