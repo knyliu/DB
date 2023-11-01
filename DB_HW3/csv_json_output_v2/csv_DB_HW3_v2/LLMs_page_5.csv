@@ -1,0 +1,31 @@
+Model,Task,Update Time,Download,Like,API URL
+tiiuae/falcon-7b,Text Generation,Updated Sep 29,198k,907,https://api-inference.huggingface.co/models/tiiuae/falcon-7b
+lxyuan/distilbert-base-multilingual-cased-sentiments-student,Text Classification,Updated Jun 24,3.37M,32,https://api-inference.huggingface.co/models/lxyuan/distilbert-base-multilingual-cased-sentiments-student
+XpucT/Reliberate,,Updated Aug 6,,40,https://api-inference.huggingface.co/models/XpucT/Reliberate
+Qwen/Qwen-7B-Chat,Text Generation,Updated 6 days ago,30.6k,638,https://api-inference.huggingface.co/models/Qwen/Qwen-7B-Chat
+WizardLM/WizardLM-70B-V1.0,Text Generation,Updated Sep 9,19.6k,124,https://api-inference.huggingface.co/models/WizardLM/WizardLM-70B-V1.0
+facebook/seamless-m4t-large,,Updated about 13 hours ago,,457,https://api-inference.huggingface.co/models/facebook/seamless-m4t-large
+MSIIP/SALMONN,,Updated 9 days ago,,14,https://api-inference.huggingface.co/models/MSIIP/SALMONN
+baichuan-inc/Baichuan2-7B-Chat,Text Generation,Updated 21 days ago,31.2k,93,https://api-inference.huggingface.co/models/baichuan-inc/Baichuan2-7B-Chat
+CiaraRowles/TemporalDiff,Text-to-Video,Updated Sep 30,,70,https://api-inference.huggingface.co/models/CiaraRowles/TemporalDiff
+BAAI/bge-large-zh-v1.5,Feature Extraction,Updated 20 days ago,11k,69,https://api-inference.huggingface.co/models/BAAI/bge-large-zh-v1.5
+sudo-ai/zero123plus-v1.1,Image-to-Image,Updated Sep 24,6.38k,14,https://api-inference.huggingface.co/models/sudo-ai/zero123plus-v1.1
+TheBloke/Qwen-14B-Chat-GPTQ,Text Generation,Updated 1 day ago,2,22,https://api-inference.huggingface.co/models/TheBloke/Qwen-14B-Chat-GPTQ
+lizpreciatior/lzlv_70B.gguf,,Updated 26 days ago,,18,https://api-inference.huggingface.co/models/lizpreciatior/lzlv_70B.gguf
+NousResearch/Nous-Capybara-7B-V1.9,Text Generation,Updated 4 days ago,11,8,https://api-inference.huggingface.co/models/NousResearch/Nous-Capybara-7B-V1.9
+TheBloke/dolphin-2.1-mistral-7B-GPTQ,Text Generation,Updated 21 days ago,4.12k,30,https://api-inference.huggingface.co/models/TheBloke/dolphin-2.1-mistral-7B-GPTQ
+KoboldAI/LLaMA2-13B-Tiefighter-GGUF,,Updated 13 days ago,,30,https://api-inference.huggingface.co/models/KoboldAI/LLaMA2-13B-Tiefighter-GGUF
+TheBloke/MistralLite-7B-GGUF,,Updated 13 days ago,47,26,https://api-inference.huggingface.co/models/TheBloke/MistralLite-7B-GGUF
+mys/ggml_bakllava-1,,Updated 13 days ago,,16,https://api-inference.huggingface.co/models/mys/ggml_bakllava-1
+TheBloke/CodeBooga-34B-v0.1-GGUF,,Updated 12 days ago,3,15,https://api-inference.huggingface.co/models/TheBloke/CodeBooga-34B-v0.1-GGUF
+Nondzu/Mistral-7B-codealpaca-lora,Text Generation,Updated 2 days ago,149,8,https://api-inference.huggingface.co/models/Nondzu/Mistral-7B-codealpaca-lora
+TheBloke/lzlv_70B-GGUF,,Updated 7 days ago,3,8,https://api-inference.huggingface.co/models/TheBloke/lzlv_70B-GGUF
+Undi95/Lewd-Sydney-20B,Text Generation,Updated about 12 hours ago,9,8,https://api-inference.huggingface.co/models/Undi95/Lewd-Sydney-20B
+Undi95/Lewd-Sydney-20B-GGUF,,Updated about 12 hours ago,,8,https://api-inference.huggingface.co/models/Undi95/Lewd-Sydney-20B-GGUF
+rinna/youri-7b-chat,Text Generation,Updated 1 day ago,115,8,https://api-inference.huggingface.co/models/rinna/youri-7b-chat
+distilbert-base-uncased,Fill-Mask,Updated Aug 18,10.8M,288,https://api-inference.huggingface.co/models/distilbert-base-uncased
+Babelscape/rebel-large,,Updated Jun 20,Text2Text Generation,140,https://api-inference.huggingface.co/models/Babelscape/rebel-large
+deepset/roberta-base-squad2,Question Answering,Updated Sep 26,1.39M,475,https://api-inference.huggingface.co/models/deepset/roberta-base-squad2
+facebook/nllb-200-distilled-600M,Translation,Updated Feb 11,87.5k,203,https://api-inference.huggingface.co/models/facebook/nllb-200-distilled-600M
+SamLowe/roberta-base-go_emotions,Text Classification,Updated 28 days ago,6.91M,154,https://api-inference.huggingface.co/models/SamLowe/roberta-base-go_emotions
+google/flan-t5-large,,Updated Jul 17,Text2Text Generation,289,https://api-inference.huggingface.co/models/google/flan-t5-large

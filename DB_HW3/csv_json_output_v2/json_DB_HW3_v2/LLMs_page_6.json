@@ -1,0 +1,212 @@
+{
+    "lj1995/VoiceConversionWebUI": [
+        null,
+        "Updated 9 days ago",
+        null,
+        "617",
+        "https://api-inference.huggingface.co/models/lj1995/VoiceConversionWebUI"
+    ],
+    "timbrooks/instruct-pix2pix": [
+        "Image-to-Image",
+        "Updated Jul 5",
+        "440k",
+        "708",
+        "https://api-inference.huggingface.co/models/timbrooks/instruct-pix2pix"
+    ],
+    "Salesforce/blip2-opt-2.7b": [
+        "Image-to-Text",
+        "Updated Sep 11",
+        "156k",
+        "160",
+        "https://api-inference.huggingface.co/models/Salesforce/blip2-opt-2.7b"
+    ],
+    "tiiuae/falcon-40b": [
+        "Text Generation",
+        "Updated Sep 29",
+        "56.3k",
+        "2.32k",
+        "https://api-inference.huggingface.co/models/tiiuae/falcon-40b"
+    ],
+    "cerspense/zeroscope_v2_576w": [
+        "Text-to-Video",
+        "Updated Jul 1",
+        "35.6k",
+        "346",
+        "https://api-inference.huggingface.co/models/cerspense/zeroscope_v2_576w"
+    ],
+    "meta-llama/Llama-2-13b-hf": [
+        "Text Generation",
+        "Updated 20 days ago",
+        "118k",
+        "409",
+        "https://api-inference.huggingface.co/models/meta-llama/Llama-2-13b-hf"
+    ],
+    "warp-ai/wuerstchen": [
+        "Text-to-Image",
+        "Updated Sep 22",
+        "17.3k",
+        "130",
+        "https://api-inference.huggingface.co/models/warp-ai/wuerstchen"
+    ],
+    "FlagAlpha/Llama2-Chinese-13b-Chat": [
+        "Question Answering",
+        "Updated Sep 11",
+        "5.82k",
+        "223",
+        "https://api-inference.huggingface.co/models/FlagAlpha/Llama2-Chinese-13b-Chat"
+    ],
+    "THUDM/chatglm2-6b-32k": [
+        null,
+        "Updated 20 days ago",
+        "6.67k",
+        "283",
+        "https://api-inference.huggingface.co/models/THUDM/chatglm2-6b-32k"
+    ],
+    "codellama/CodeLlama-7b-Python-hf": [
+        "Text Generation",
+        "Updated 5 days ago",
+        "23.2k",
+        "63",
+        "https://api-inference.huggingface.co/models/codellama/CodeLlama-7b-Python-hf"
+    ],
+    "TheBloke/CodeLlama-34B-Instruct-GPTQ": [
+        "Text Generation",
+        "Updated Sep 27",
+        "472k",
+        "49",
+        "https://api-inference.huggingface.co/models/TheBloke/CodeLlama-34B-Instruct-GPTQ"
+    ],
+    "tiiuae/falcon-180B-chat": [
+        "Text Generation",
+        "Updated Sep 6",
+        "24.8k",
+        "459",
+        "https://api-inference.huggingface.co/models/tiiuae/falcon-180B-chat"
+    ],
+    "Xwin-LM/Xwin-LM-70B-V0.1": [
+        "Text Generation",
+        "Updated Sep 21",
+        "9.91k",
+        "169",
+        "https://api-inference.huggingface.co/models/Xwin-LM/Xwin-LM-70B-V0.1"
+    ],
+    "WisdomShell/CodeShell-7B": [
+        "Text Generation",
+        "Updated about 3 hours ago",
+        "692",
+        "61",
+        "https://api-inference.huggingface.co/models/WisdomShell/CodeShell-7B"
+    ],
+    "teknium/Mistral-Trismegistus-7B": [
+        "Text Generation",
+        "Updated 6 days ago",
+        "4.97k",
+        "123",
+        "https://api-inference.huggingface.co/models/teknium/Mistral-Trismegistus-7B"
+    ],
+    "jphme/em_german_leo_mistral": [
+        "Text Generation",
+        "Updated 5 days ago",
+        "9.05k",
+        "19",
+        "https://api-inference.huggingface.co/models/jphme/em_german_leo_mistral"
+    ],
+    "BAAI/llm-embedder": [
+        "Feature Extraction",
+        "Updated 19 days ago",
+        "201k",
+        "35",
+        "https://api-inference.huggingface.co/models/BAAI/llm-embedder"
+    ],
+    "VideoCrafter/Text2Video-1024": [
+        null,
+        "Updated 19 days ago",
+        null,
+        "13",
+        "https://api-inference.huggingface.co/models/VideoCrafter/Text2Video-1024"
+    ],
+    "Undi95/Xwin-MLewd-13B-V0.2": [
+        "Text Generation",
+        "Updated 17 days ago",
+        "895",
+        "23",
+        "https://api-inference.huggingface.co/models/Undi95/Xwin-MLewd-13B-V0.2"
+    ],
+    "THUDM/agentlm-7b": [
+        "Text Generation",
+        "Updated 12 days ago",
+        "367",
+        "29",
+        "https://api-inference.huggingface.co/models/THUDM/agentlm-7b"
+    ],
+    "Nondzu/Mistral-7B-code-16k-qlora": [
+        "Text Generation",
+        "Updated 2 days ago",
+        "126",
+        "14",
+        "https://api-inference.huggingface.co/models/Nondzu/Mistral-7B-code-16k-qlora"
+    ],
+    "timm/ViT-SO400M-14-SigLIP-384": [
+        "Zero-Shot Image Classification",
+        "Updated 5 days ago",
+        "2.51k",
+        "10",
+        "https://api-inference.huggingface.co/models/timm/ViT-SO400M-14-SigLIP-384"
+    ],
+    "llm-jp/llm-jp-13b-v1.0": [
+        "Text Generation",
+        "Updated 12 days ago",
+        "3.6k",
+        "27",
+        "https://api-inference.huggingface.co/models/llm-jp/llm-jp-13b-v1.0"
+    ],
+    "meta-math/MetaMath-Mistral-7B": [
+        "Text Generation",
+        "Updated 10 days ago",
+        "171",
+        "16",
+        "https://api-inference.huggingface.co/models/meta-math/MetaMath-Mistral-7B"
+    ],
+    "TheBloke/CausalLM-7B-GGUF": [
+        "Text Generation",
+        "Updated 9 days ago",
+        "18",
+        "20",
+        "https://api-inference.huggingface.co/models/TheBloke/CausalLM-7B-GGUF"
+    ],
+    "Heralax/Cat-0.5": [
+        "Text Generation",
+        "Updated 8 days ago",
+        "103",
+        "11",
+        "https://api-inference.huggingface.co/models/Heralax/Cat-0.5"
+    ],
+    "Tonic/GaiaMiniMed": [
+        "Question Answering",
+        "Updated 4 days ago",
+        "348",
+        "7",
+        "https://api-inference.huggingface.co/models/Tonic/GaiaMiniMed"
+    ],
+    "TheBloke/Nous-Capybara-7B-v1.9-GGUF": [
+        null,
+        "Updated 3 days ago",
+        null,
+        "7",
+        "https://api-inference.huggingface.co/models/TheBloke/Nous-Capybara-7B-v1.9-GGUF"
+    ],
+    "TheBloke/AquilaChat2-34B-16K-GGUF": [
+        null,
+        "Updated 3 days ago",
+        null,
+        "7",
+        "https://api-inference.huggingface.co/models/TheBloke/AquilaChat2-34B-16K-GGUF"
+    ],
+    "TheBloke/SciPhi-Mistral-7B-32k-GGUF": [
+        null,
+        "Updated 2 days ago",
+        "6",
+        "7",
+        "https://api-inference.huggingface.co/models/TheBloke/SciPhi-Mistral-7B-32k-GGUF"
+    ]
+}

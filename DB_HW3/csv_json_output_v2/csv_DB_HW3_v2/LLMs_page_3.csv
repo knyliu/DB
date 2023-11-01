@@ -1,0 +1,31 @@
+Model,Task,Update Time,Download,Like,API URL
+TheBloke/OpenHermes-2-Mistral-7B-GGUF,,Updated 16 days ago,119,62,https://api-inference.huggingface.co/models/TheBloke/OpenHermes-2-Mistral-7B-GGUF
+Undi95/Xwin-MLewd-13B-V0.2-GGUF,,Updated 18 days ago,,27,https://api-inference.huggingface.co/models/Undi95/Xwin-MLewd-13B-V0.2-GGUF
+NeverSleep/Echidna-13b-v0.3,Text Generation,Updated about 11 hours ago,682,12,https://api-inference.huggingface.co/models/NeverSleep/Echidna-13b-v0.3
+nlpconnect/vit-gpt2-image-captioning,Image-to-Text,Updated Feb 27,2.37M,584,https://api-inference.huggingface.co/models/nlpconnect/vit-gpt2-image-captioning
+google/flan-t5-base,,Updated Jul 17,Text2Text Generation,392,https://api-inference.huggingface.co/models/google/flan-t5-base
+prompthero/openjourney,Text-to-Image,Updated May 15,505k,2.94k,https://api-inference.huggingface.co/models/prompthero/openjourney
+WizardLM/WizardCoder-Python-34B-V1.0,Text Generation,Updated Sep 9,119k,647,https://api-inference.huggingface.co/models/WizardLM/WizardCoder-Python-34B-V1.0
+diffusers/stable-diffusion-xl-1.0-inpainting-0.1,Text-to-Image,Updated Sep 3,75.3k,139,https://api-inference.huggingface.co/models/diffusers/stable-diffusion-xl-1.0-inpainting-0.1
+mys/ggml_llava-v1.5-7b,,Updated 23 days ago,,44,https://api-inference.huggingface.co/models/mys/ggml_llava-v1.5-7b
+vivo-ai/BlueLM-7B-Chat-32K,Text Generation,Updated 1 day ago,,11,https://api-inference.huggingface.co/models/vivo-ai/BlueLM-7B-Chat-32K
+NousResearch/Nous-Capybara-3B-V1.9,Text Generation,Updated 3 days ago,146,11,https://api-inference.huggingface.co/models/NousResearch/Nous-Capybara-3B-V1.9
+rinna/youri-7b,Text Generation,Updated 1 day ago,80,11,https://api-inference.huggingface.co/models/rinna/youri-7b
+bert-base-chinese,Fill-Mask,Updated Mar 21,509k,599,https://api-inference.huggingface.co/models/bert-base-chinese
+facebook/bart-large-mnli,Zero-Shot Classification,Updated Sep 5,2.89M,719,https://api-inference.huggingface.co/models/facebook/bart-large-mnli
+hakurei/waifu-diffusion,Text-to-Image,Updated Jul 5,34.5k,2.28k,https://api-inference.huggingface.co/models/hakurei/waifu-diffusion
+GanymedeNil/text2vec-large-chinese,Sentence Similarity,Updated Aug 5,20k,635,https://api-inference.huggingface.co/models/GanymedeNil/text2vec-large-chinese
+moka-ai/m3e-base,,Updated Jul 14,6.99k,645,https://api-inference.huggingface.co/models/moka-ai/m3e-base
+WizardLM/WizardCoder-15B-V1.0,Text Generation,Updated Sep 9,20k,644,https://api-inference.huggingface.co/models/WizardLM/WizardCoder-15B-V1.0
+lmsys/vicuna-7b-v1.5,Text Generation,Updated Aug 2,98.8k,88,https://api-inference.huggingface.co/models/lmsys/vicuna-7b-v1.5
+nerijs/pixel-art-xl,Text-to-Image,Updated Aug 3,23.5k,186,https://api-inference.huggingface.co/models/nerijs/pixel-art-xl
+stabilityai/control-lora,Text-to-Image,Updated Aug 19,,599,https://api-inference.huggingface.co/models/stabilityai/control-lora
+ValiantLabs/ShiningValiant,Text Generation,Updated 41 minutes ago,6.56k,47,https://api-inference.huggingface.co/models/ValiantLabs/ShiningValiant
+Pclanglais/Brahe,Text Generation,Updated 1 day ago,23,13,https://api-inference.huggingface.co/models/Pclanglais/Brahe
+EleutherAI/llemma_34b,Text Generation,Updated 15 days ago,5.68k,44,https://api-inference.huggingface.co/models/EleutherAI/llemma_34b
+clibrain/lince-mistral-7b-it-es,Text Generation,Updated 6 days ago,102,10,https://api-inference.huggingface.co/models/clibrain/lince-mistral-7b-it-es
+beomi/llama-2-koen-13b,Text Generation,Updated 1 day ago,257,13,https://api-inference.huggingface.co/models/beomi/llama-2-koen-13b
+bkai-foundation-models/vietnamese-llama2-7b-40GB,Text Generation,Updated 6 days ago,663,10,https://api-inference.huggingface.co/models/bkai-foundation-models/vietnamese-llama2-7b-40GB
+gpt2,Text Generation,Updated Jun 30,23.1M,1.46k,https://api-inference.huggingface.co/models/gpt2
+facebook/bart-large-cnn,Summarization,Updated 29 days ago,2.46M,639,https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis,Text Classification,Updated Mar 16,3.64M,105,https://api-inference.huggingface.co/models/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis

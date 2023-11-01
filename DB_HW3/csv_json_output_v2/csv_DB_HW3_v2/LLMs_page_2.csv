@@ -1,0 +1,31 @@
+Model,Task,Update Time,Download,Like,API URL
+stabilityai/stable-diffusion-2-1,Text-to-Image,Updated Jul 5,5.9M,3.27k,https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-2-1
+guoyww/animatediff,,Updated Sep 29,,219,https://api-inference.huggingface.co/models/guoyww/animatediff
+facebook/metaclip-b32-400m,Zero-Shot Image Classification,Updated 24 days ago,1.21k,19,https://api-inference.huggingface.co/models/facebook/metaclip-b32-400m
+furusu/SSD-1B-anime,Text-to-Image,Updated 1 day ago,1.02k,16,https://api-inference.huggingface.co/models/furusu/SSD-1B-anime
+SciPhi/SciPhi-Self-RAG-Mistral-7B-32k,Text Generation,Updated about 2 hours ago,379,16,https://api-inference.huggingface.co/models/SciPhi/SciPhi-Self-RAG-Mistral-7B-32k
+nisten/obsidian-3b-multimodal-q6-gguf,,Updated 3 days ago,,16,https://api-inference.huggingface.co/models/nisten/obsidian-3b-multimodal-q6-gguf
+TheBloke/Phind-CodeLlama-34B-v2-GGUF,,Updated Sep 27,91,96,https://api-inference.huggingface.co/models/TheBloke/Phind-CodeLlama-34B-v2-GGUF
+BAAI/bge-large-en-v1.5,Feature Extraction,Updated 20 days ago,152k,105,https://api-inference.huggingface.co/models/BAAI/bge-large-en-v1.5
+FPHam/Free_Sydney_V2_13b_HF,Text Generation,Updated 3 days ago,12,15,https://api-inference.huggingface.co/models/FPHam/Free_Sydney_V2_13b_HF
+madebyollin/sdxl-vae-fp16-fix,,Updated Sep 25,130k,217,https://api-inference.huggingface.co/models/madebyollin/sdxl-vae-fp16-fix
+baichuan-inc/Baichuan2-13B-Chat,Text Generation,Updated 13 days ago,40.8k,291,https://api-inference.huggingface.co/models/baichuan-inc/Baichuan2-13B-Chat
+TheBloke/Llama-2-7b-Chat-GGUF,Text Generation,Updated 18 days ago,4.16k,114,https://api-inference.huggingface.co/models/TheBloke/Llama-2-7b-Chat-GGUF
+TheBloke/Mistral-7B-OpenOrca-GGUF,Text Generation,Updated 30 days ago,1.98k,162,https://api-inference.huggingface.co/models/TheBloke/Mistral-7B-OpenOrca-GGUF
+facebook/metaclip-h14-fullcc2.5b,Zero-Shot Image Classification,Updated 18 days ago,5.76k,14,https://api-inference.huggingface.co/models/facebook/metaclip-h14-fullcc2.5b
+SciPhi/SciPhi-Mistral-7B-32k,Text Generation,Updated about 17 hours ago,683,43,https://api-inference.huggingface.co/models/SciPhi/SciPhi-Mistral-7B-32k
+distil-whisper/distil-large-v2,,Updated 8 days ago,,14,https://api-inference.huggingface.co/models/distil-whisper/distil-large-v2
+jondurbin/airoboros-180b-2.2.1,Text Generation,Updated 7 days ago,18,14,https://api-inference.huggingface.co/models/jondurbin/airoboros-180b-2.2.1
+bert-base-uncased,Fill-Mask,Updated Jun 30,51.8M,1.17k,https://api-inference.huggingface.co/models/bert-base-uncased
+tiiuae/falcon-7b-instruct,Text Generation,Updated Sep 29,12.6M,700,https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct
+suno/bark,Text-to-Speech,Updated 28 days ago,48k,511,https://api-inference.huggingface.co/models/suno/bark
+meta-llama/Llama-2-13b-chat-hf,Text Generation,Updated 20 days ago,351k,662,https://api-inference.huggingface.co/models/meta-llama/Llama-2-13b-chat-hf
+codellama/CodeLlama-34b-Instruct-hf,Text Generation,Updated 5 days ago,73.1k,179,https://api-inference.huggingface.co/models/codellama/CodeLlama-34b-Instruct-hf
+microsoft/phi-1_5,Text Generation,Updated 2 days ago,167k,962,https://api-inference.huggingface.co/models/microsoft/phi-1_5
+hotshotco/Hotshot-XL,Text-to-Video,Updated 21 days ago,88.8k,131,https://api-inference.huggingface.co/models/hotshotco/Hotshot-XL
+THUDM/agentlm-70b,Text Generation,Updated 12 days ago,247,56,https://api-inference.huggingface.co/models/THUDM/agentlm-70b
+openai/clip-vit-large-patch14,Zero-Shot Image Classification,Updated Sep 15,22.7M,663,https://api-inference.huggingface.co/models/openai/clip-vit-large-patch14
+intfloat/multilingual-e5-large,Feature Extraction,Updated Sep 23,113k,245,https://api-inference.huggingface.co/models/intfloat/multilingual-e5-large
+TheBloke/Mistral-7B-OpenOrca-GPTQ,Text Generation,Updated 16 days ago,22k,74,https://api-inference.huggingface.co/models/TheBloke/Mistral-7B-OpenOrca-GPTQ
+liuhaotian/llava-v1.5-7b,Text Generation,Updated 10 days ago,82.4k,98,https://api-inference.huggingface.co/models/liuhaotian/llava-v1.5-7b
+TheBloke/zephyr-7B-alpha-GGUF,,Updated 18 days ago,719,118,https://api-inference.huggingface.co/models/TheBloke/zephyr-7B-alpha-GGUF

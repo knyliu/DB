@@ -1,0 +1,31 @@
+Model,Task,Update Time,Download,Like,API URL
+THUDM/CogVLM,,Updated 21 days ago,,58,https://api-inference.huggingface.co/models/THUDM/CogVLM
+akjindal53244/Arithmo-Mistral-7B,Text Generation,Updated 9 days ago,439,42,https://api-inference.huggingface.co/models/akjindal53244/Arithmo-Mistral-7B
+migtissera/SynthIA-70B-v1.5,Text Generation,Updated 9 days ago,74,27,https://api-inference.huggingface.co/models/migtissera/SynthIA-70B-v1.5
+TheBloke/Mistral-7B-Code-16K-qlora-GPTQ,Text Generation,Updated 15 days ago,401,8,https://api-inference.huggingface.co/models/TheBloke/Mistral-7B-Code-16K-qlora-GPTQ
+selfrag/selfrag_llama2_13b,Text Generation,Updated 10 days ago,84,20,https://api-inference.huggingface.co/models/selfrag/selfrag_llama2_13b
+TheBloke/LLaMA2-13B-Tiefighter-GGUF,,Updated 10 days ago,34,7,https://api-inference.huggingface.co/models/TheBloke/LLaMA2-13B-Tiefighter-GGUF
+llmware/bling-sheared-llama-1.3b-0.1,Text Generation,Updated 9 days ago,249,10,https://api-inference.huggingface.co/models/llmware/bling-sheared-llama-1.3b-0.1
+TheBloke/Mistral-7B-SciPhi-32k-GGUF,,Updated 10 days ago,14,10,https://api-inference.huggingface.co/models/TheBloke/Mistral-7B-SciPhi-32k-GGUF
+ehartford/dolphin-2.1-70b,Text Generation,Updated 4 days ago,180,10,https://api-inference.huggingface.co/models/ehartford/dolphin-2.1-70b
+TheBloke/HornyEchidna-13B-v0.1-GGUF,,Updated 8 days ago,3,9,https://api-inference.huggingface.co/models/TheBloke/HornyEchidna-13B-v0.1-GGUF
+distil-whisper/distil-medium.en,,Updated 8 days ago,,6,https://api-inference.huggingface.co/models/distil-whisper/distil-medium.en
+FPHam/LORA-secrets,,Updated 6 days ago,,6,https://api-inference.huggingface.co/models/FPHam/LORA-secrets
+TheBloke/Mistral-7B-Claude-Chat-GGUF,,Updated 4 days ago,16,6,https://api-inference.huggingface.co/models/TheBloke/Mistral-7B-Claude-Chat-GGUF
+Skywork/Skywork-13B-Base-3.1TB,Text Generation,Updated 1 day ago,1,6,https://api-inference.huggingface.co/models/Skywork/Skywork-13B-Base-3.1TB
+vivo-ai/BlueLM-7B-Chat,Text Generation,Updated 1 day ago,,6,https://api-inference.huggingface.co/models/vivo-ai/BlueLM-7B-Chat
+distilbert-base-uncased-distilled-squad,Question Answering,Updated Apr 6,3.33M,63,https://api-inference.huggingface.co/models/distilbert-base-uncased-distilled-squad
+roberta-base,Fill-Mask,Updated Mar 6,8.18M,235,https://api-inference.huggingface.co/models/roberta-base
+ProsusAI/finbert,Text Classification,Updated May 23,1.48M,369,https://api-inference.huggingface.co/models/ProsusAI/finbert
+facebook/fastspeech2-en-ljspeech,Text-to-Speech,"Updated Jan 28, 2022",4.57k,225,https://api-inference.huggingface.co/models/facebook/fastspeech2-en-ljspeech
+cardiffnlp/twitter-roberta-base-sentiment-latest,Text Classification,Updated May 28,1.36M,257,https://api-inference.huggingface.co/models/cardiffnlp/twitter-roberta-base-sentiment-latest
+CompVis/stable-diffusion-safety-checker,,"Updated Nov 25, 2022",5.22M,79,https://api-inference.huggingface.co/models/CompVis/stable-diffusion-safety-checker
+aari1995/German_Semantic_STS_V2,Sentence Similarity,Updated Jun 29,9.61k,25,https://api-inference.huggingface.co/models/aari1995/German_Semantic_STS_V2
+nitrosocke/Ghibli-Diffusion,Text-to-Image,Updated Aug 3,9.98k,566,https://api-inference.huggingface.co/models/nitrosocke/Ghibli-Diffusion
+Envvi/Inkpunk-Diffusion,Text-to-Image,"Updated Nov 29, 2022",13.5k,916,https://api-inference.huggingface.co/models/Envvi/Inkpunk-Diffusion
+prompthero/openjourney-v4,Text-to-Image,Updated May 15,140k,1.16k,https://api-inference.huggingface.co/models/prompthero/openjourney-v4
+microsoft/speecht5_tts,Text-to-Speech,Updated 27 days ago,85.8k,298,https://api-inference.huggingface.co/models/microsoft/speecht5_tts
+mirroring/civitai_mirror,Text-to-Image,Updated 7 days ago,1.24k,50,https://api-inference.huggingface.co/models/mirroring/civitai_mirror
+google/deplot,Visual Question Answering,Updated Sep 6,30.4k,113,https://api-inference.huggingface.co/models/google/deplot
+DeepFloyd/IF-I-XL-v1.0,Text-to-Image,Updated Jun 2,88.8k,522,https://api-inference.huggingface.co/models/DeepFloyd/IF-I-XL-v1.0
+wok000/vcclient000,,Updated 23 days ago,,163,https://api-inference.huggingface.co/models/wok000/vcclient000

@@ -1,0 +1,212 @@
+{
+    "HuggingFaceH4/zephyr-7b-beta": [
+        "Text Generation",
+        "Updated 5 days ago",
+        "14.9k",
+        "428",
+        "https://api-inference.huggingface.co/models/HuggingFaceH4/zephyr-7b-beta"
+    ],
+    "jinaai/jina-embeddings-v2-base-en": [
+        "Feature Extraction",
+        "Updated about 5 hours ago",
+        "37.5k",
+        "349",
+        "https://api-inference.huggingface.co/models/jinaai/jina-embeddings-v2-base-en"
+    ],
+    "segmind/SSD-1B": [
+        "Text-to-Image",
+        "Updated 4 days ago",
+        "29.9k",
+        "346",
+        "https://api-inference.huggingface.co/models/segmind/SSD-1B"
+    ],
+    "THUDM/chatglm3-6b": [
+        null,
+        "Updated about 7 hours ago",
+        "11.6k",
+        "239",
+        "https://api-inference.huggingface.co/models/THUDM/chatglm3-6b"
+    ],
+    "adept/fuyu-8b": [
+        "Text Generation",
+        "Updated 10 days ago",
+        "20.4k",
+        "616",
+        "https://api-inference.huggingface.co/models/adept/fuyu-8b"
+    ],
+    "mistralai/Mistral-7B-v0.1": [
+        "Text Generation",
+        "Updated 20 days ago",
+        "294k",
+        "1.59k",
+        "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-v0.1"
+    ],
+    "CausalLM/14B": [
+        "Text Generation",
+        "Updated 4 days ago",
+        "613",
+        "197",
+        "https://api-inference.huggingface.co/models/CausalLM/14B"
+    ],
+    "stabilityai/stable-diffusion-xl-base-1.0": [
+        "Text-to-Image",
+        "Updated 2 days ago",
+        "8.46M",
+        "3.35k",
+        "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0"
+    ],
+    "HuggingFaceH4/zephyr-7b-alpha": [
+        "Text Generation",
+        "Updated 6 days ago",
+        "71.1k",
+        "859",
+        "https://api-inference.huggingface.co/models/HuggingFaceH4/zephyr-7b-alpha"
+    ],
+    "THUDM/chatglm3-6b-32k": [
+        null,
+        "Updated 1 day ago",
+        "1.5k",
+        "89",
+        "https://api-inference.huggingface.co/models/THUDM/chatglm3-6b-32k"
+    ],
+    "meta-llama/Llama-2-7b-chat-hf": [
+        "Text Generation",
+        "Updated 10 days ago",
+        "947k",
+        "1.62k",
+        "https://api-inference.huggingface.co/models/meta-llama/Llama-2-7b-chat-hf"
+    ],
+    "TheBloke/zephyr-7B-beta-GGUF": [
+        null,
+        "Updated 5 days ago",
+        "180",
+        "78",
+        "https://api-inference.huggingface.co/models/TheBloke/zephyr-7B-beta-GGUF"
+    ],
+    "mistralai/Mistral-7B-Instruct-v0.1": [
+        "Text Generation",
+        "Updated 21 days ago",
+        "244k",
+        "915",
+        "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1"
+    ],
+    "openai/whisper-large-v2": [
+        "Automatic Speech Recognition",
+        "Updated Sep 8",
+        "220k",
+        "1.33k",
+        "https://api-inference.huggingface.co/models/openai/whisper-large-v2"
+    ],
+    "amazon/MistralLite": [
+        "Text Generation",
+        "Updated 9 days ago",
+        "4.22k",
+        "167",
+        "https://api-inference.huggingface.co/models/amazon/MistralLite"
+    ],
+    "CausalLM/7B": [
+        "Text Generation",
+        "Updated 4 days ago",
+        "386",
+        "94",
+        "https://api-inference.huggingface.co/models/CausalLM/7B"
+    ],
+    "runwayml/stable-diffusion-v1-5": [
+        "Text-to-Image",
+        "Updated Aug 23",
+        "7.81M",
+        "9.51k",
+        "https://api-inference.huggingface.co/models/runwayml/stable-diffusion-v1-5"
+    ],
+    "SimianLuo/LCM_Dreamshaper_v7": [
+        "Text-to-Image",
+        "Updated 7 days ago",
+        "64.5k",
+        "116",
+        "https://api-inference.huggingface.co/models/SimianLuo/LCM_Dreamshaper_v7"
+    ],
+    "meta-llama/Llama-2-7b": [
+        "Text Generation",
+        "Updated Jul 19",
+        null,
+        "2.9k",
+        "https://api-inference.huggingface.co/models/meta-llama/Llama-2-7b"
+    ],
+    "oobabooga/CodeBooga-34B-v0.1": [
+        "Text Generation",
+        "Updated 9 days ago",
+        "231",
+        "62",
+        "https://api-inference.huggingface.co/models/oobabooga/CodeBooga-34B-v0.1"
+    ],
+    "jinaai/jina-embeddings-v2-small-en": [
+        "Feature Extraction",
+        "Updated about 5 hours ago",
+        "14.7k",
+        "58",
+        "https://api-inference.huggingface.co/models/jinaai/jina-embeddings-v2-small-en"
+    ],
+    "Qwen/Qwen-14B-Chat": [
+        "Text Generation",
+        "Updated 6 days ago",
+        "8.97k",
+        "247",
+        "https://api-inference.huggingface.co/models/Qwen/Qwen-14B-Chat"
+    ],
+    "TheBloke/CausalLM-14B-GGUF": [
+        "Text Generation",
+        "Updated 9 days ago",
+        "53",
+        "61",
+        "https://api-inference.huggingface.co/models/TheBloke/CausalLM-14B-GGUF"
+    ],
+    "Phind/Phind-CodeLlama-34B-v2": [
+        "Text Generation",
+        "Updated Aug 28",
+        "26.4k",
+        "429",
+        "https://api-inference.huggingface.co/models/Phind/Phind-CodeLlama-34B-v2"
+    ],
+    "lllyasviel/sd_control_collection": [
+        null,
+        "Updated Sep 9",
+        null,
+        "676",
+        "https://api-inference.huggingface.co/models/lllyasviel/sd_control_collection"
+    ],
+    "teknium/OpenHermes-2-Mistral-7B": [
+        "Text Generation",
+        "Updated 7 days ago",
+        "14.9k",
+        "175",
+        "https://api-inference.huggingface.co/models/teknium/OpenHermes-2-Mistral-7B"
+    ],
+    "ehartford/dolphin-2.1-mistral-7b": [
+        "Text Generation",
+        "Updated 21 days ago",
+        "12.9k",
+        "167",
+        "https://api-inference.huggingface.co/models/ehartford/dolphin-2.1-mistral-7b"
+    ],
+    "XpucT/Deliberate": [
+        null,
+        "Updated 4 days ago",
+        null,
+        "35",
+        "https://api-inference.huggingface.co/models/XpucT/Deliberate"
+    ],
+    "Open-Orca/Mistral-7B-OpenOrca": [
+        "Text Generation",
+        "Updated 22 days ago",
+        "82.2k",
+        "415",
+        "https://api-inference.huggingface.co/models/Open-Orca/Mistral-7B-OpenOrca"
+    ],
+    "NousResearch/Obsidian-3B-V0.5": [
+        "Text Generation",
+        "Updated 1 day ago",
+        "225",
+        "30",
+        "https://api-inference.huggingface.co/models/NousResearch/Obsidian-3B-V0.5"
+    ]
+}

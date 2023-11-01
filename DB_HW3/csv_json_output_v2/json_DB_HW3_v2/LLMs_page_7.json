@@ -1,0 +1,212 @@
+{
+    "distilbert-base-uncased-finetuned-sst-2-english": [
+        "Text Classification",
+        "Updated 6 days ago",
+        "42.2M",
+        "329",
+        "https://api-inference.huggingface.co/models/distilbert-base-uncased-finetuned-sst-2-english"
+    ],
+    "dslim/bert-base-NER": [
+        "Token Classification",
+        "Updated May 9",
+        "1.41M",
+        "275",
+        "https://api-inference.huggingface.co/models/dslim/bert-base-NER"
+    ],
+    "google/vit-base-patch16-224": [
+        "Image Classification",
+        "Updated Sep 5",
+        "1.39M",
+        "357",
+        "https://api-inference.huggingface.co/models/google/vit-base-patch16-224"
+    ],
+    "openai/clip-vit-base-patch32": [
+        "Zero-Shot Image Classification",
+        "Updated Oct 4, 2022",
+        "8.02M",
+        "259",
+        "https://api-inference.huggingface.co/models/openai/clip-vit-base-patch32"
+    ],
+    "hakurei/waifu-diffusion-v1-4": [
+        "Text-to-Image",
+        "Updated Jan 16",
+        null,
+        "1.04k",
+        "https://api-inference.huggingface.co/models/hakurei/waifu-diffusion-v1-4"
+    ],
+    "stabilityai/sd-vae-ft-mse-original": [
+        "Text-to-Image",
+        "Updated Dec 19, 2022",
+        null,
+        "1.12k",
+        "https://api-inference.huggingface.co/models/stabilityai/sd-vae-ft-mse-original"
+    ],
+    "runwayml/stable-diffusion-inpainting": [
+        "Text-to-Image",
+        "Updated Jul 5",
+        "368k",
+        "1.34k",
+        "https://api-inference.huggingface.co/models/runwayml/stable-diffusion-inpainting"
+    ],
+    "nitrosocke/mo-di-diffusion": [
+        "Text-to-Image",
+        "Updated May 16",
+        "24.7k",
+        "911",
+        "https://api-inference.huggingface.co/models/nitrosocke/mo-di-diffusion"
+    ],
+    "Salesforce/blip-image-captioning-large": [
+        "Image-to-Text",
+        "Updated Aug 1",
+        "812k",
+        "450",
+        "https://api-inference.huggingface.co/models/Salesforce/blip-image-captioning-large"
+    ],
+    "hkunlp/instructor-large": [
+        "Sentence Similarity",
+        "Updated Apr 21",
+        "170k",
+        "323",
+        "https://api-inference.huggingface.co/models/hkunlp/instructor-large"
+    ],
+    "Linaqruf/anything-v3.0": [
+        "Text-to-Image",
+        "Updated Mar 28",
+        "48.5k",
+        "669",
+        "https://api-inference.huggingface.co/models/Linaqruf/anything-v3.0"
+    ],
+    "TencentARC/T2I-Adapter": [
+        null,
+        "Updated Aug 22",
+        null,
+        "642",
+        "https://api-inference.huggingface.co/models/TencentARC/T2I-Adapter"
+    ],
+    "THUDM/chatglm-6b": [
+        null,
+        "Updated Sep 4",
+        "91.1k",
+        "2.64k",
+        "https://api-inference.huggingface.co/models/THUDM/chatglm-6b"
+    ],
+    "zl111/ChatDoctor": [
+        "Conversational",
+        "Updated Jun 26",
+        null,
+        "99",
+        "https://api-inference.huggingface.co/models/zl111/ChatDoctor"
+    ],
+    "mosaicml/mpt-7b-storywriter": [
+        "Text Generation",
+        "Updated 1 day ago",
+        "7.97k",
+        "703",
+        "https://api-inference.huggingface.co/models/mosaicml/mpt-7b-storywriter"
+    ],
+    "intfloat/multilingual-e5-base": [
+        "Sentence Similarity",
+        "Updated Sep 8",
+        "36.5k",
+        "112",
+        "https://api-inference.huggingface.co/models/intfloat/multilingual-e5-base"
+    ],
+    "TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ": [
+        "Text Generation",
+        "Updated Sep 27",
+        "15.4k",
+        "397",
+        "https://api-inference.huggingface.co/models/TheBloke/Wizard-Vicuna-30B-Uncensored-GPTQ"
+    ],
+    "NousResearch/Nous-Hermes-Llama2-13b": [
+        "Text Generation",
+        "Updated Aug 26",
+        "44.2k",
+        "237",
+        "https://api-inference.huggingface.co/models/NousResearch/Nous-Hermes-Llama2-13b"
+    ],
+    "hfl/chinese-alpaca-2-7b": [
+        "Text Generation",
+        "Updated Aug 25",
+        "6.76k",
+        "109",
+        "https://api-inference.huggingface.co/models/hfl/chinese-alpaca-2-7b"
+    ],
+    "sakuraumi/Sakura-13B-Galgame": [
+        "Text Generation",
+        "Updated about 12 hours ago",
+        "11",
+        "33",
+        "https://api-inference.huggingface.co/models/sakuraumi/Sakura-13B-Galgame"
+    ],
+    "TheBloke/Llama-2-13B-chat-GGUF": [
+        "Text Generation",
+        "Updated Sep 27",
+        "1.17k",
+        "83",
+        "https://api-inference.huggingface.co/models/TheBloke/Llama-2-13B-chat-GGUF"
+    ],
+    "BAAI/bge-base-en-v1.5": [
+        "Feature Extraction",
+        "Updated 20 days ago",
+        "94.7k",
+        "42",
+        "https://api-inference.huggingface.co/models/BAAI/bge-base-en-v1.5"
+    ],
+    "facebook/hf-seamless-m4t-large": [
+        "Text-to-Speech",
+        "Updated 2 days ago",
+        "1.43k",
+        "13",
+        "https://api-inference.huggingface.co/models/facebook/hf-seamless-m4t-large"
+    ],
+    "pyannote/segmentation-3.0": [
+        "Voice Activity Detection",
+        "Updated 28 days ago",
+        "701k",
+        "22",
+        "https://api-inference.huggingface.co/models/pyannote/segmentation-3.0"
+    ],
+    "Qwen/Qwen-14B": [
+        "Text Generation",
+        "Updated 6 days ago",
+        "26.9k",
+        "156",
+        "https://api-inference.huggingface.co/models/Qwen/Qwen-14B"
+    ],
+    "HiTZ/GoLLIE-34B": [
+        "Text Generation",
+        "Updated 12 days ago",
+        "4",
+        "28",
+        "https://api-inference.huggingface.co/models/HiTZ/GoLLIE-34B"
+    ],
+    "replit/replit-code-v1_5-3b": [
+        "Text Generation",
+        "Updated 12 days ago",
+        "6.59k",
+        "229",
+        "https://api-inference.huggingface.co/models/replit/replit-code-v1_5-3b"
+    ],
+    "sequelbox/StellarBright": [
+        "Text Generation",
+        "Updated 16 days ago",
+        "3.92k",
+        "22",
+        "https://api-inference.huggingface.co/models/sequelbox/StellarBright"
+    ],
+    "princeton-nlp/Sheared-LLaMA-1.3B": [
+        "Text Generation",
+        "Updated 6 days ago",
+        "14.9k",
+        "43",
+        "https://api-inference.huggingface.co/models/princeton-nlp/Sheared-LLaMA-1.3B"
+    ],
+    "BAAI/AquilaChat2-34B": [
+        "Text Generation",
+        "Updated 6 days ago",
+        "664",
+        "39",
+        "https://api-inference.huggingface.co/models/BAAI/AquilaChat2-34B"
+    ]
+}

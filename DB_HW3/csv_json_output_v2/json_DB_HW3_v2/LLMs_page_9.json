@@ -1,0 +1,212 @@
+{
+    "ai-forever/ruGPT-3.5-13B": [
+        "Text Generation",
+        "Updated Jun 14",
+        "3.44k",
+        "153",
+        "https://api-inference.huggingface.co/models/ai-forever/ruGPT-3.5-13B"
+    ],
+    "mosaicml/mpt-7b": [
+        "Text Generation",
+        "Updated 1 day ago",
+        "81.3k",
+        "1.09k",
+        "https://api-inference.huggingface.co/models/mosaicml/mpt-7b"
+    ],
+    "TheBloke/WizardLM-7B-uncensored-GPTQ": [
+        "Text Generation",
+        "Updated 6 days ago",
+        "6.68k",
+        "156",
+        "https://api-inference.huggingface.co/models/TheBloke/WizardLM-7B-uncensored-GPTQ"
+    ],
+    "TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ": [
+        "Text Generation",
+        "Updated Sep 27",
+        "15.3k",
+        "255",
+        "https://api-inference.huggingface.co/models/TheBloke/Wizard-Vicuna-13B-Uncensored-GPTQ"
+    ],
+    "TheBloke/Nous-Hermes-13B-GPTQ": [
+        "Text Generation",
+        "Updated Aug 21",
+        "2.36k",
+        "154",
+        "https://api-inference.huggingface.co/models/TheBloke/Nous-Hermes-13B-GPTQ"
+    ],
+    "Babelscape/mrebel-large": [
+        "Translation",
+        "Updated Jun 20",
+        "1.87k",
+        "27",
+        "https://api-inference.huggingface.co/models/Babelscape/mrebel-large"
+    ],
+    "meta-llama/Llama-2-70b": [
+        "Text Generation",
+        "Updated Jul 19",
+        null,
+        "290",
+        "https://api-inference.huggingface.co/models/meta-llama/Llama-2-70b"
+    ],
+    "TheBloke/Llama-2-7B-Chat-GGML": [
+        "Text Generation",
+        "Updated Sep 27",
+        "5.67k",
+        "608",
+        "https://api-inference.huggingface.co/models/TheBloke/Llama-2-7B-Chat-GGML"
+    ],
+    "LinkSoul/Chinese-Llama-2-7b": [
+        "Text Generation",
+        "Updated Aug 16",
+        "6.21k",
+        "272",
+        "https://api-inference.huggingface.co/models/LinkSoul/Chinese-Llama-2-7b"
+    ],
+    "FlagAlpha/Llama2-Chinese-7b-Chat": [
+        "Question Answering",
+        "Updated Jul 23",
+        "9.49k",
+        "116",
+        "https://api-inference.huggingface.co/models/FlagAlpha/Llama2-Chinese-7b-Chat"
+    ],
+    "togethercomputer/LLaMA-2-7B-32K": [
+        "Text Generation",
+        "Updated 29 days ago",
+        "9.19k",
+        "478",
+        "https://api-inference.huggingface.co/models/togethercomputer/LLaMA-2-7B-32K"
+    ],
+    "thenlper/gte-large": [
+        "Sentence Similarity",
+        "Updated Sep 25",
+        "84.9k",
+        "139",
+        "https://api-inference.huggingface.co/models/thenlper/gte-large"
+    ],
+    "togethercomputer/Llama-2-7B-32K-Instruct": [
+        "Text Generation",
+        "Updated 29 days ago",
+        "18.3k",
+        "125",
+        "https://api-inference.huggingface.co/models/togethercomputer/Llama-2-7B-32K-Instruct"
+    ],
+    "goofyai/3d_render_style_xl": [
+        "Text-to-Image",
+        "Updated Aug 14",
+        "8.07k",
+        "55",
+        "https://api-inference.huggingface.co/models/goofyai/3d_render_style_xl"
+    ],
+    "Qwen/Qwen-7B-Chat-Int4": [
+        "Text Generation",
+        "Updated 6 days ago",
+        "9.73k",
+        "56",
+        "https://api-inference.huggingface.co/models/Qwen/Qwen-7B-Chat-Int4"
+    ],
+    "codellama/CodeLlama-13b-Instruct-hf": [
+        "Text Generation",
+        "Updated 5 days ago",
+        "99.5k",
+        "76",
+        "https://api-inference.huggingface.co/models/codellama/CodeLlama-13b-Instruct-hf"
+    ],
+    "codellama/CodeLlama-34b-hf": [
+        "Text Generation",
+        "Updated 5 days ago",
+        "38.4k",
+        "125",
+        "https://api-inference.huggingface.co/models/codellama/CodeLlama-34b-hf"
+    ],
+    "TheBloke/CodeLlama-13B-GGUF": [
+        "Text Generation",
+        "Updated Sep 27",
+        "74",
+        "32",
+        "https://api-inference.huggingface.co/models/TheBloke/CodeLlama-13B-GGUF"
+    ],
+    "elyza/ELYZA-japanese-Llama-2-7b-fast-instruct": [
+        "Text Generation",
+        "Updated Aug 29",
+        "16k",
+        "50",
+        "https://api-inference.huggingface.co/models/elyza/ELYZA-japanese-Llama-2-7b-fast-instruct"
+    ],
+    "baichuan-inc/Baichuan2-7B-Base": [
+        "Text Generation",
+        "Updated 20 days ago",
+        "10.1k",
+        "47",
+        "https://api-inference.huggingface.co/models/baichuan-inc/Baichuan2-7B-Base"
+    ],
+    "sensenova/piccolo-base-zh": [
+        "Feature Extraction",
+        "Updated Sep 8",
+        "2.1k",
+        "21",
+        "https://api-inference.huggingface.co/models/sensenova/piccolo-base-zh"
+    ],
+    "PygmalionAI/pygmalion-2-13b": [
+        "Text Generation",
+        "Updated Sep 15",
+        "11.4k",
+        "37",
+        "https://api-inference.huggingface.co/models/PygmalionAI/pygmalion-2-13b"
+    ],
+    "PygmalionAI/mythalion-13b": [
+        "Text Generation",
+        "Updated Sep 15",
+        "10.4k",
+        "71",
+        "https://api-inference.huggingface.co/models/PygmalionAI/mythalion-13b"
+    ],
+    "EleutherAI/llemma_7b": [
+        "Text Generation",
+        "Updated 15 days ago",
+        "4.28k",
+        "43",
+        "https://api-inference.huggingface.co/models/EleutherAI/llemma_7b"
+    ],
+    "Undi95/MLewdBoros-LRPSGPT-2Char-13B-GGUF": [
+        null,
+        "Updated Sep 13",
+        null,
+        "20",
+        "https://api-inference.huggingface.co/models/Undi95/MLewdBoros-LRPSGPT-2Char-13B-GGUF"
+    ],
+    "facebook/nougat-base": [
+        "Image-to-Text",
+        "Updated Sep 25",
+        "8.1k",
+        "52",
+        "https://api-inference.huggingface.co/models/facebook/nougat-base"
+    ],
+    "openbmb/UltraRM-13b": [
+        null,
+        "Updated 18 days ago",
+        "8.81k",
+        "23",
+        "https://api-inference.huggingface.co/models/openbmb/UltraRM-13b"
+    ],
+    "defog/sqlcoder2": [
+        "Text Generation",
+        "Updated 19 days ago",
+        "11k",
+        "57",
+        "https://api-inference.huggingface.co/models/defog/sqlcoder2"
+    ],
+    "lizpreciatior/lzlv_70b_fp16_hf": [
+        "Text Generation",
+        "Updated 3 days ago",
+        "3.67k",
+        "19",
+        "https://api-inference.huggingface.co/models/lizpreciatior/lzlv_70b_fp16_hf"
+    ],
+    "TheBloke/TinyLlama-1.1B-Chat-v0.3-GGUF": [
+        null,
+        "Updated 29 days ago",
+        "106",
+        "19",
+        "https://api-inference.huggingface.co/models/TheBloke/TinyLlama-1.1B-Chat-v0.3-GGUF"
+    ]
+}

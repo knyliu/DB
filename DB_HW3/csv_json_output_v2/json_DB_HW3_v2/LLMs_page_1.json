@@ -1,0 +1,212 @@
+{
+    "openaccess-ai-collective/mistral-7b-llava-1_5-pretrained-projector": [
+        "Text Generation",
+        "Updated 3 days ago",
+        "56",
+        "30",
+        "https://api-inference.huggingface.co/models/openaccess-ai-collective/mistral-7b-llava-1_5-pretrained-projector"
+    ],
+    "stabilityai/stable-diffusion-xl-refiner-1.0": [
+        "Image-to-Image",
+        "Updated Sep 25",
+        "8.06M",
+        "1.01k",
+        "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-refiner-1.0"
+    ],
+    "liuhaotian/llava-v1.5-13b": [
+        "Text Generation",
+        "Updated 16 days ago",
+        "145k",
+        "244",
+        "https://api-inference.huggingface.co/models/liuhaotian/llava-v1.5-13b"
+    ],
+    "lllyasviel/ControlNet-v1-1": [
+        null,
+        "Updated Apr 25",
+        null,
+        "2.6k",
+        "https://api-inference.huggingface.co/models/lllyasviel/ControlNet-v1-1"
+    ],
+    "meta-llama/Llama-2-70b-chat-hf": [
+        "Text Generation",
+        "Updated 20 days ago",
+        "1.2M",
+        "1.52k",
+        "https://api-inference.huggingface.co/models/meta-llama/Llama-2-70b-chat-hf"
+    ],
+    "SkunkworksAI/BakLLaVA-1": [
+        "Text Generation",
+        "Updated 9 days ago",
+        "730",
+        "194",
+        "https://api-inference.huggingface.co/models/SkunkworksAI/BakLLaVA-1"
+    ],
+    "THUDM/chatglm3-6b-base": [
+        null,
+        "Updated 1 day ago",
+        "547",
+        "27",
+        "https://api-inference.huggingface.co/models/THUDM/chatglm3-6b-base"
+    ],
+    "sentence-transformers/all-MiniLM-L6-v2": [
+        "Sentence Similarity",
+        "Updated Nov 7, 2022",
+        "3.77M",
+        "1.06k",
+        "https://api-inference.huggingface.co/models/sentence-transformers/all-MiniLM-L6-v2"
+    ],
+    "h94/IP-Adapter": [
+        "Text-to-Image",
+        "Updated about 8 hours ago",
+        null,
+        "206",
+        "https://api-inference.huggingface.co/models/h94/IP-Adapter"
+    ],
+    "ehartford/dolphin-2.2-mistral-7b": [
+        "Text Generation",
+        "Updated 3 days ago",
+        "156",
+        "26",
+        "https://api-inference.huggingface.co/models/ehartford/dolphin-2.2-mistral-7b"
+    ],
+    "stockmark/stockmark-13b": [
+        "Text Generation",
+        "Updated 4 days ago",
+        "913",
+        "25",
+        "https://api-inference.huggingface.co/models/stockmark/stockmark-13b"
+    ],
+    "KT-AI/midm-bitext-S-7B-inst-v1": [
+        "Text Generation",
+        "Updated about 5 hours ago",
+        "1.69k",
+        "25",
+        "https://api-inference.huggingface.co/models/KT-AI/midm-bitext-S-7B-inst-v1"
+    ],
+    "TheBloke/dolphin-2.2.1-mistral-7B-GGUF": [
+        null,
+        "Updated 1 day ago",
+        "2",
+        "25",
+        "https://api-inference.huggingface.co/models/TheBloke/dolphin-2.2.1-mistral-7B-GGUF"
+    ],
+    "CompVis/stable-diffusion-v1-4": [
+        "Text-to-Image",
+        "Updated Aug 23",
+        "626k",
+        "6.03k",
+        "https://api-inference.huggingface.co/models/CompVis/stable-diffusion-v1-4"
+    ],
+    "meta-llama/Llama-2-7b-hf": [
+        "Text Generation",
+        "Updated Aug 9",
+        "509k",
+        "752",
+        "https://api-inference.huggingface.co/models/meta-llama/Llama-2-7b-hf"
+    ],
+    "bigscience/bloom": [
+        "Text Generation",
+        "Updated Jul 28",
+        "78.1k",
+        "4.11k",
+        "https://api-inference.huggingface.co/models/bigscience/bloom"
+    ],
+    "monster-labs/control_v1p_sd15_qrcode_monster": [
+        null,
+        "Updated Jul 21",
+        "245k",
+        "1.04k",
+        "https://api-inference.huggingface.co/models/monster-labs/control_v1p_sd15_qrcode_monster"
+    ],
+    "bigcode/starcoder": [
+        "Text Generation",
+        "Updated 27 days ago",
+        "21.4k",
+        "2.42k",
+        "https://api-inference.huggingface.co/models/bigcode/starcoder"
+    ],
+    "tiiuae/falcon-180B": [
+        "Text Generation",
+        "Updated Sep 6",
+        "11.8k",
+        "873",
+        "https://api-inference.huggingface.co/models/tiiuae/falcon-180B"
+    ],
+    "TheBloke/zephyr-7B-beta-GPTQ": [
+        "Text Generation",
+        "Updated 5 days ago",
+        "1.02k",
+        "20",
+        "https://api-inference.huggingface.co/models/TheBloke/zephyr-7B-beta-GPTQ"
+    ],
+    "stabilityai/japanese-stablelm-instruct-gamma-7b": [
+        "Text Generation",
+        "Updated 2 days ago",
+        "1.85k",
+        "29",
+        "https://api-inference.huggingface.co/models/stabilityai/japanese-stablelm-instruct-gamma-7b"
+    ],
+    "Skywork/Skywork-13B-base": [
+        "Text Generation",
+        "Updated 1 day ago",
+        "165",
+        "19",
+        "https://api-inference.huggingface.co/models/Skywork/Skywork-13B-base"
+    ],
+    "coqui/XTTS-v1": [
+        "Text-to-Speech",
+        "Updated 1 day ago",
+        "30.2k",
+        "323",
+        "https://api-inference.huggingface.co/models/coqui/XTTS-v1"
+    ],
+    "TheBloke/Mistral-7B-v0.1-GGUF": [
+        "Text Generation",
+        "Updated Sep 28",
+        "3.16k",
+        "144",
+        "https://api-inference.huggingface.co/models/TheBloke/Mistral-7B-v0.1-GGUF"
+    ],
+    "lllyasviel/ControlNet": [
+        null,
+        "Updated Feb 25",
+        null,
+        "3.26k",
+        "https://api-inference.huggingface.co/models/lllyasviel/ControlNet"
+    ],
+    "THUDM/chatglm2-6b": [
+        null,
+        "Updated 23 days ago",
+        "293k",
+        "1.87k",
+        "https://api-inference.huggingface.co/models/THUDM/chatglm2-6b"
+    ],
+    "TheBloke/Mistral-7B-Instruct-v0.1-GGUF": [
+        "Text Generation",
+        "Updated Sep 28",
+        "5.66k",
+        "233",
+        "https://api-inference.huggingface.co/models/TheBloke/Mistral-7B-Instruct-v0.1-GGUF"
+    ],
+    "ehartford/dolphin-2.2.1-mistral-7b": [
+        "Text Generation",
+        "Updated 1 day ago",
+        "15",
+        "17",
+        "https://api-inference.huggingface.co/models/ehartford/dolphin-2.2.1-mistral-7b"
+    ],
+    "sentence-transformers/all-mpnet-base-v2": [
+        "Sentence Similarity",
+        "Updated Jul 11, 2022",
+        "10.9M",
+        "444",
+        "https://api-inference.huggingface.co/models/sentence-transformers/all-mpnet-base-v2"
+    ],
+    "impira/layoutlm-document-qa": [
+        "Document Question Answering",
+        "Updated Mar 18",
+        "113k",
+        "565",
+        "https://api-inference.huggingface.co/models/impira/layoutlm-document-qa"
+    ]
+}
