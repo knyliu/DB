@@ -156,7 +156,16 @@ db.```table_name```.find({ gender: 'F' });
 * Connection with Front-end and Back-end
 * MongoDB Express ReactJS Node.js
 
+### HW4 - MERN Web App with Authentication / MERN
 
+[YouTube Video](https://youtu.be/OYa47J7WI48)  MERN Web App with Authentication - Logic, and Code Explanation
+
+* MERN Web App with authentication
+* Log In / Log Out / Register
+* Full Stack Code Explanation
+* MongoDB Express ReactJS Node.js
+
+  
 ## Final Project
 
 
