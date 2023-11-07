@@ -27,7 +27,7 @@ function App() {
 
     Axios.put('http://localhost:3001/update', {newFloor:newFloor , id:id}).then(() => {
       setlistOfClassrooms(listOfClassrooms.map((val) => {
-        return val._id == id 
+        return val._id === id 
         ? {_id:id , name:val.name, school:val.school , campus:val.campus , building:val.building , floor:newFloor}
         : val
       }))
@@ -38,7 +38,7 @@ function App() {
   const deleteClassroom = (id) => {
     Axios.delete(`http://localhost:3001/delete/${id}`).then(() => {
       setlistOfClassrooms(listOfClassrooms.filter((val) => {
-        return val._id != id;
+        return val._id !== id;
       }))
     });
   };
