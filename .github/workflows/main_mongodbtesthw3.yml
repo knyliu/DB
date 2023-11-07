@@ -51,7 +51,9 @@ jobs:
           name: DB_HW3
 
       - name: Unzip artifact for deployment
-        run: unzip release.zip
+        run: |
+          cd /home/runner/work/DB/DB
+          unzip release.zip
 
       - name: 'Deploy to Azure Web App'
         id: deploy-to-webapp
