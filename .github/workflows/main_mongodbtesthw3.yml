@@ -52,7 +52,9 @@ jobs:
   
       - name: 'Deploy to Azure Web App'
         id: deploy-to-webapp
-        uses: azure/webapps-deploy@v2
+        uses: |
+          azure/login@v1
+          azure/webapps-deploy@v2
         with:
           app-name: 'mongodbatlasazurenodejs'
           slot-name: 'Production'
