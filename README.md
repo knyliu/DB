@@ -128,11 +128,7 @@ db.```table_name```.find({ gender: 'F' });
 
 ### HW1 - ERD and Databse Create
 
-:::spoiler ER Diagram
-
 <img width="697" alt="截圖 2023-09-25 下午12 18 03" src="https://github.com/knyliu/DB/assets/131148428/7ca74de1-1b47-438b-8533-6c0ec9793d45">
-
-:::
 
 [YouTube Video](https://youtu.be/D074LEaJJbE)  ER Model and Database Creation
 
