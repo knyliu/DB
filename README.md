@@ -165,6 +165,41 @@ db.```table_name```.find({ gender: 'F' });
 * Full Stack Code Explanation
 * MongoDB Express ReactJS Node.js
 
+### HW5 - Deploying a MERN Web App to Azure
+
+[YouTube Video](https://youtu.be/mYV9xWF1gEg)  Deploying a MERN Web App to Azure: A Detailed Step-by-Step Guide
+
+* Deploy MERN Web App to Azure
+* Steps:
+      1. Create a Web App Service on Azure.
+  
+      2. Set the Configuration:
+  
+         - KEY: MONGO_URI
+  
+         - VALUE: Use the connection string from MongoDB.
+  
+      3. Configure Network Access - IP Address:
+  
+         - Allow access from 0.0.0.0 (all IP addresses).
+  
+      4. Edit the Code:
+  
+         - Change the baseUrl.
+  
+         - Create a .env file and add MONGO_URI="Your MongoDB connection string".
+  
+         - Build the project using npm run build.
+  
+         - Edit index.html to update the title.
+  
+      5. Push the Code to GitHub:
+  
+         - Note: You don’t need to upload the node_modules folder.
+  
+      6. Set up the Deployment Center:
+  
+         - Change the Provider to App service build service.
   
 ## Final Project
 
