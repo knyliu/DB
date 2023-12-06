@@ -171,6 +171,7 @@ db.```table_name```.find({ gender: 'F' });
 
 * Deploy MERN Web App to Azure
 * Steps:
+  
       1. Create a Web App Service on Azure.
   
       2. Set the Configuration:
