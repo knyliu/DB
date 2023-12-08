@@ -13,6 +13,8 @@ Department and Grade：TAHRD 2nd Grade
 + [**Final Project**](https://github.com/knyliu/DB#Final-Project)
 
 ## Note
+<details>
+ <summary> Note </summary>
 ### Week 2
 #### Create Table
 ```SQL=
@@ -120,6 +122,7 @@ db.students.insertMany([
 ]);
 db.```table_name```.find({ gender: 'F' });
 ```
+</details>
 
 ## Assignment
 ### HW0 - Environment Setup
