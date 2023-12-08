@@ -15,6 +15,7 @@ Department and Grade：TAHRD 2nd Grade
 ## Note
 <details>
  <summary> Note </summary>
+ 
 ### Week 2
 #### Create Table
 ```SQL=
